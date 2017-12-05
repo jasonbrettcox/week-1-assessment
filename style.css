@@ -7,9 +7,10 @@ body{
 
 }
 header {
-	background-color: #3B5998;
+	background-color: #6d84b4;
 	height: 225px;
 	display: flex;
+
 }
 footer{
 	display: flex;
